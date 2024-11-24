@@ -13,7 +13,7 @@ Content Management System
 3. setup .env file as per sample.env attached for reference (update username and password in .env file)
 
 ## Setup on local system (run below command in sequence)
-1. git clone <repository url>
+1. git clone https://github.com/BD-Portfolio/cms
 2. cd cms
 3. npm install (to install all dependencies)
 4. npx prisma db push (to create schemas of database)
