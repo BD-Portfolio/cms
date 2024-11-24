@@ -20,3 +20,6 @@ Content Management System
 5. npm run dev (open localhost:3000)
 6. Start the testing...
 
+
+## Demo video
+[https://drive.google.com/file/d/1ECXw9K2Dv3s6a0lXe6l1tFPgJs8O7s6N/view?usp=sharing](https://drive.google.com/file/d/1ECXw9K2Dv3s6a0lXe6l1tFPgJs8O7s6N/view?usp=sharing).
